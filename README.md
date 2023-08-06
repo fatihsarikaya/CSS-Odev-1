@@ -8,7 +8,15 @@ Kedi ve köpek cinsleri, bakım, sağlık, beslenme ve eğitim, diğer evcil hay
 
 ## Sitede Bulunan Hayvan Türleri
 
-1. Köpek        
+1. Kedi
+    * Tonkinese
+    * Tuxedo
+    * Snowshoe
+    * Tiffany/Chantilly
+    * Singapura
+    * Somali
+   
+2. Köpek        
     * Wirehaired Pointing Griffon
     * Westphalia Basseti
     * Whippet
@@ -16,10 +24,3 @@ Kedi ve köpek cinsleri, bakım, sağlık, beslenme ve eğitim, diğer evcil hay
     * Trigg Tazısı
     * Valee Çoban Köpeği
     * Weimaraner
-2. Kedi
-    * Tonkinese
-    * Tuxedo
-    * Snowshoe
-    * Tiffany/Chantilly
-    * Singapura
-    * Somali
